@@ -2,6 +2,12 @@ html{
     background-color: #1F2937;
 }
 
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
 #header, #first, #second, #third, #fourth, #footer{
     padding-left: 100px;
     padding-right: 100px;
@@ -159,6 +165,7 @@ html{
 }
 
 #footer{
+    margin-top: auto;
     background-color: #1F2937;
     padding: 20px;
 }
