@@ -2,6 +2,11 @@ html{
     background-color: #1F2937;
 }
 
+#header, #first, #second, #third, #fourth, #footer{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 #header{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     position: sticky;
@@ -91,6 +96,10 @@ html{
 .smallImageText{
     max-width: 200px;
     font-size: 14px;
+}
+
+.smallImageHolder{
+    padding: 50px;
 }
 
 #third{
