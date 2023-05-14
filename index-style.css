@@ -33,6 +33,7 @@ html{
 #first{
     background-color: #1F2937;
     display:flex; 
+    flex-wrap:wrap;
     align-items: center;
     justify-content: space-evenly;  
     padding-top: 50px;
