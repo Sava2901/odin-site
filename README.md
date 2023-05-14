@@ -1,3 +1,3 @@
 # odin-site
 
-[Live Version](https://github.com/Sava2901/odin-site.io)
+[Live Version](https://Sava2901.github.io/odin-site)
